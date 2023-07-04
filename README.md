@@ -5,3 +5,13 @@ and you can only move one disk at a time. At the beginning, the player chooses t
 
 ## Solution
 The main file (main.py) considers solution in python programming language with using tkinter librirary , which is usefull in visualisation of our game.
+
+### Color pallete
+`#222424`<br>
+`#fac552`<br>
+`#292929`<br>
+`#454747`<br>
+`#f2ac13`<br>
+
+##
+The project was completed on May 30, 2022.
